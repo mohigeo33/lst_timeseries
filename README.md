@@ -1,2 +1,2 @@
 # LST Time Series
-Land surface temperature (LST) time series from Landsat images using Google Earth Engine python API in Google Colab.
+Land surface temperature dynamics in a changing landscape: A time series analysis of Landsat imagery in Google Earth Engine
