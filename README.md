@@ -5,37 +5,59 @@ This study investigates the spatiotemporal patterns of land surface temperature 
 
 ## 2. Notebook files and their description
 a) LST_Calculation.ipynb: Image pre-processing, Spectral indices calculation, LST estimation and statistical data extraction
+
 b) Statistical_analysis.ipynb: Descriptive statistics, trend and correlation analysis
 
 ## 3. Required packages
 ### 3.1 For LST estimation and data extraction
 import os
+
 import sys
+
 import ee
+
 import geemap
+
 import geopandas as gpd
+
 import pandas as pd
+
 from tqdm import tqdm
+
 import math
 ### 3.2 For statistical analysis
 import os
-import pandas as pd
-import matplotlib as mpl
-import matplotlib.pyplot as plt
-import statistics
-import numpy as np
-import seaborn as sns
-import math
-import altair as alt
-import altair_transform
-from scipy.stats import shapiro 
-from scipy.stats import lognorm
-from scipy.stats import kstest
-from scipy.stats import norm
-from sklearn.metrics import r2_score
 
-## 4. Files needed to run the code
+import pandas as pd
+
+import matplotlib as mpl
+
+import matplotlib.pyplot as plt
+
+import statistics
+
+import numpy as np
+
+import seaborn as sns
+
+import math
+
+import altair as alt
+
+import altair_transform
+
+from scipy.stats import shapiro 
+
+from scipy.stats import lognorm
+
+from scipy.stats import kstest
+
+from scipy.stats import norm
+
+from sklearn.metrics import r2_score
+## 4. Files needed to run the code externally
 a) AOI.zip: the shapefile for area of interest
+
 b) CSV files.zip: the csv files required for statistical analysis
 
 ## 5. Remarks
