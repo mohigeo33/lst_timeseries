@@ -62,3 +62,7 @@ b) CSV files.zip: the csv files required for statistical analysis
 
 ## 5. Remarks
 This code is created for research purposes. Upon use please provide appropriate references.
+
+## test for interactive charts
+Check out this [interactive visualization](https://mohigeo33.github.io/lst_timeseries/cloud_cover.html).
+
