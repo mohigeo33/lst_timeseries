@@ -27,23 +27,17 @@ a) LST_Calculation.ipynb: Image pre-processing, Spectral indices calculation, LS
 
 b) Statistical_analysis.ipynb: Descriptive statistics, trend and correlation analysis
 
-## 3. Required packages
-### 3.1 For LST estimation and data extraction
-import os
+## 3. Remote sensing data used on the study
+The study primarily used the Landsat data for LST estimation and calculating different
+spectral indices. This study used collection-1: Tier 1 data from Landsat 5, 7 and 8. Both
+surface reflectance (SR) and calibrated top-of-atmosphere (TOA) data were used. The images 
+in Phnom Penh is highly susceptible to the presence of cloud. Hence, a
+maximum of 60% cloud filter is applied. The cloud coverage of the selected images is
+presented in the following chart (Figure 1). Each dot represents an image that was
+considered for this study. After applying the cloud filter, 462 images were found from
+2000 to 2021
+Figure 1: [Cloud coverage in the Landsat images selected for the study](https://mohigeo33.github.io/lst_timeseries/cloud_cover.html).
 
-import sys
-
-import ee
-
-import geemap
-
-import geopandas as gpd
-
-import pandas as pd
-
-from tqdm import tqdm
-
-import math
 ### 3.2 For statistical analysis
 import os
 
