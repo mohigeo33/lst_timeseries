@@ -36,6 +36,7 @@ maximum of 60% cloud filter is applied. The cloud coverage of the selected image
 presented in the following chart (Figure 1). Each dot represents an image that was
 considered for this study. After applying the cloud filter, 462 images were found from
 2000 to 2021
+
 Figure 1: [Cloud coverage in the Landsat images selected for the study](https://mohigeo33.github.io/lst_timeseries/cloud_cover.html).
 
 ### 3.2 For statistical analysis
