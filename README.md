@@ -56,8 +56,11 @@ Figure 4: LST estimation and spectral indices calculation from Landsat images
 
 ## Highlighted results
 The calendar heatmaps are created to get a temporal overview of the LST (Figure 5, 6 & 7)
+
 Figure 5: [Calendar heatmaps of Mean LST](https://mohigeo33.github.io/lst_timeseries/calendar_MeanLST.html).
+
 Figure 6: [Calendar heatmaps of Maximum LST](https://mohigeo33.github.io/lst_timeseries/calendar_MaxLST.html).
+
 Figure 7: [Calendar heatmaps of Minimum LST](https://mohigeo33.github.io/lst_timeseries/calendar_MinLST.html).
 
 
