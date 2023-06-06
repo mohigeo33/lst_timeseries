@@ -48,7 +48,7 @@ Chbar Ampov District, located in the southeast region of Phnom Penh, Cambodia, i
 with a mix of residential and commercial zones (City of Phnom Penh, 2020). The Mekong River borders the district to 
 the east, Meanchey District to the west, Kandal Province to the north, and Prek Pnov District to the south (Figure 3).
 
-![Location of the study area](study area.png)
+![Location of the study area](study_area.png)
 
 Figure 3: Location of the study area
 
