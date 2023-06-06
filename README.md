@@ -22,12 +22,7 @@ study provides valuable insights into LST dynamics and the relationship between 
 and LULC changes, with potential implications for urban planners, policymakers, and
 researchers working towards creating more sustainable and resilient urban environments.
 
-## 2. Notebook files and their description
-a) LST_Calculation.ipynb: Image pre-processing, Spectral indices calculation, LST estimation and statistical data extraction
-
-b) Statistical_analysis.ipynb: Descriptive statistics, trend and correlation analysis
-
-## 3. Remote sensing data used on the study
+## 2. Remote sensing data used on the study
 The study primarily used the Landsat data for LST estimation and calculating different
 spectral indices. This study used collection-1: Tier 1 data from Landsat 5, 7 and 8. Both
 surface reflectance (SR) and calibrated top-of-atmosphere (TOA) data were used. The images 
@@ -43,7 +38,7 @@ Figure 1: [Cloud coverage in the Landsat images selected for the study](https://
 
 Figure 2: Sensor-wise number of Landsat images for the period of 2000 to 2021 (60% maximum cloud filter applied)
 
-## 4. Study area
+## 3. Study area
 Chbar Ampov District, located in the southeast region of Phnom Penh, Cambodia, is a rapidly developing urban area 
 with a mix of residential and commercial zones (City of Phnom Penh, 2020). The Mekong River borders the district to 
 the east, Meanchey District to the west, Kandal Province to the north, and Prek Pnov District to the south (Figure 3).
@@ -53,20 +48,32 @@ the east, Meanchey District to the west, Kandal Province to the north, and Prek 
 Figure 3: Location of the study area
 
 
-## 5. LST estimation and spectral indices calculation
+## 4. LST estimation and spectral indices calculation
 Following steps were taken to estimate the LST and calculate the spectral indices from Landsat images (Figure 4)
 ![LST estimation and spectral indices calculation from Landsat images](lst_indices_calculation.png)
 
 Figure 4: LST estimation and spectral indices calculation from Landsat images
 
-## 4. Files needed to run the code externally
+## Highlighted results
+The calendar heatmaps are created to get a temporal overview of the LST (Figure 5, 6 & 7)
+Figure 5: [Calendar heatmaps of Mean LST](https://mohigeo33.github.io/lst_timeseries/calendar_MeanLST.html).
+Figure 6: [Calendar heatmaps of Maximum LST](https://mohigeo33.github.io/lst_timeseries/calendar_MaxLST.html).
+Figure 7: [Calendar heatmaps of Minimum LST](https://mohigeo33.github.io/lst_timeseries/calendar_MinLST.html).
+
+
+
+
+
+## 8. Notebook files and their description
+a) LST_Calculation.ipynb: Image pre-processing, Spectral indices calculation, LST estimation and statistical data extraction
+
+b) Statistical_analysis.ipynb: Descriptive statistics, trend and correlation analysis
+
+## 9. Files needed to run the code externally
 a) AOI.zip: the shapefile for area of interest
 
 b) CSV files.zip: the csv files required for statistical analysis
 
 ## 5. Remarks
 This code is created for research purposes. Upon use please provide appropriate references.
-
-## test for interactive charts
-Check out this [interactive visualization](https://mohigeo33.github.io/lst_timeseries/cloud_cover.html).
 
