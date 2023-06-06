@@ -34,7 +34,7 @@ presented in the following chart (Figure 1). Each dot represents an image that w
 considered for this study. After applying the cloud filter, 462 images were found from
 2000 to 2021
 
-Figure 1: [Cloud coverage in the Landsat images selected for the study](https://mohigeo33.github.io/lst_timeseries/cloud_cover.html).
+Figure 1: [Cloud coverage in the Landsat images selected for the study](https://mohigeo33.github.io/lst_timeseries/cloud_cover.html). (Click on the link to view the interactive chart)
 
 ![Sensor-wise number of Landsat images for the period of 2000 to 2021](number_of_images.png)
 
@@ -58,11 +58,11 @@ Figure 4: LST estimation and spectral indices calculation from Landsat images
 
 ## 5. Highlighted results
 
-Figure 5: [Calendar heatmaps of Mean LST](https://mohigeo33.github.io/lst_timeseries/calendar_MeanLST.html).
+Figure 5: [Calendar heatmaps of Mean LST](https://mohigeo33.github.io/lst_timeseries/calendar_MeanLST.html). (Click on the link to view the interactive chart)
 
-Figure 6: [Calendar heatmaps of Maximum LST](https://mohigeo33.github.io/lst_timeseries/calendar_MaxLST.html).
+Figure 6: [Calendar heatmaps of Maximum LST](https://mohigeo33.github.io/lst_timeseries/calendar_MaxLST.html). (Click on the link to view the interactive chart)
 
-Figure 7: [Calendar heatmaps of Minimum LST](https://mohigeo33.github.io/lst_timeseries/calendar_MinLST.html).
+Figure 7: [Calendar heatmaps of Minimum LST](https://mohigeo33.github.io/lst_timeseries/calendar_MinLST.html). (Click on the link to view the interactive chart)
 
 ![Annual LST range (2000 - 2021](Annual_LST_range.png)
 
@@ -73,7 +73,7 @@ Figure 8: Annual LST range (2000 - 2021)
 Figure 9: Number of warmer months per year in LST categories
 (The height of each bar represents the warmth score for respective years.)
 
-Figure 10: [Total time series of minimum, mean & maximum LST (2000 - 2021)](https://mohigeo33.github.io/lst_timeseries/LST_trend.html).
+Figure 10: [Total time series of minimum, mean & maximum LST (2000 - 2021)](https://mohigeo33.github.io/lst_timeseries/LST_trend.html). (Click on the link to view the interactive chart)
 
 ![Correlation matrix](correlation_matrix.png)
 
