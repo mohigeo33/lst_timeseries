@@ -1,14 +1,3 @@
----
-title: "Land surface temperature dynamics in a changing landscape: A time series analysis of land surface temperature data in Google Earth Engine"
-author: "by [Gulam Mohiuddin](https://www.linkedin.com/in/mohigeo33/) - last update `r format(Sys.time(), '%d %B %Y')`"
-linkedin: "valentin-stefan"
-github: "mohigeo33"
-output:
-  epuRate::epurate:
-    toc: TRUE
-    number_sections: FALSE
-    code_folding: "show"
----
 # Land surface temperature dynamics in a changing landscape: A time series analysis of land surface temperature data in Google Earth Engine
 
 ***by Gulam Mohiuddin.***
