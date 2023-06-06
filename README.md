@@ -38,7 +38,8 @@ considered for this study. After applying the cloud filter, 462 images were foun
 2000 to 2021
 
 Figure 1: [Cloud coverage in the Landsat images selected for the study](https://mohigeo33.github.io/lst_timeseries/cloud_cover.html).
-Figure 2: ![Sensor-wise number of Landsat images for the period of 2000 to 2021](main/number of images.png)
+Figure 2: ![Sensor-wise number of Landsat images for the period of 2000 to 2021](number_of_images.png)
+
 ## 4. Study area
 Chbar Ampov District, located in the southeast region of Phnom Penh, Cambodia, is a rapidly developing urban area 
 with a mix of residential and commercial zones (City of Phnom Penh, 2020). The Mekong River borders the district to 
