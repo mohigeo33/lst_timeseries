@@ -1,6 +1,6 @@
 # Land surface temperature dynamics in a changing landscape: A time series analysis of land surface temperature data in Google Earth Engine
 
-***by [Gulam Mohiuddin](https://www.linkedin.com/in/mohigeo33/)***
+***[Gulam Mohiuddin](https://www.linkedin.com/in/mohigeo33/)***
 
 ## 1. About the study
 This study investigates the spatiotemporal patterns of land surface temperature (LST) and
