@@ -53,6 +53,12 @@ the east, Meanchey District to the west, Kandal Province to the north, and Prek 
 Figure 3: Location of the study area
 
 
+## 5. LST estimation and spectral indices calculation
+Following steps were taken to estimate the LST and calculate the spectral indices from Landsat images (Figure 4)
+![LST estimation and spectral indices calculation from Landsat images](lst_indices_calculation.png)
+
+Figure 4: LST estimation and spectral indices calculation from Landsat images
+
 ## 4. Files needed to run the code externally
 a) AOI.zip: the shapefile for area of interest
 
