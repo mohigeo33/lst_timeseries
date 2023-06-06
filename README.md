@@ -47,7 +47,10 @@ Figure 2: Sensor-wise number of Landsat images for the period of 2000 to 2021 (6
 Chbar Ampov District, located in the southeast region of Phnom Penh, Cambodia, is a rapidly developing urban area 
 with a mix of residential and commercial zones (City of Phnom Penh, 2020). The Mekong River borders the district to 
 the east, Meanchey District to the west, Kandal Province to the north, and Prek Pnov District to the south (Figure 3).
-Figure 3: [Location of the study area](main/study area.png)
+
+![Location of the study area](study area.png)
+
+Figure 3: Location of the study area
 
 
 ## 4. Files needed to run the code externally
