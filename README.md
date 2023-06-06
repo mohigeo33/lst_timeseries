@@ -77,12 +77,12 @@ Figure 10: [Total time series of minimum, mean & maximum LST (2000 - 2021)](http
 
 Figure 11: Correlation matrix between LST, IBI, MNDWI & NDVI
 
-## 6. Notebook files and their description
+## 6. Notebook (Code) files and their description
 a) LST_Calculation.ipynb: Image pre-processing, Spectral indices calculation, LST estimation and statistical data extraction
 
 b) Statistical_analysis.ipynb: Descriptive statistics, trend and correlation analysis
 
-## 7. Files needed to run the code externally
+## 7. Files needed to run the code externally (downloadable from the repository)
 a) AOI.zip: the shapefile for area of interest
 
 b) CSV files.zip: the csv files required for statistical analysis
