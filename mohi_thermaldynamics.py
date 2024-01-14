@@ -34,7 +34,7 @@ import altair as alt
 
 
 ## loading the data
-#DATA_URL = "https://github.com/mohigeo33/lst_timeseries/lst.csv"
+DATA_URL = "https://github.com/mohigeo33/lst_timeseries/lst.csv"
 
 ## title
 st.title("Thermal Dynamics of a City")
@@ -47,7 +47,7 @@ st.markdown("This application is a dashboard that can be used to understand the 
    # return data
 
 ## Call the 'load_data' function with 100,000 rows and store the result in 'data'
-data = pd.read_csv(lst.csv)
+data = pd.read_csv(DATA_URL)
 data = data[data['MinLST'] >= 20]
 raw_data = data
 
