@@ -1,27 +1,3 @@
-## about the code: 
-
-################################################################### Setting the environment ###################################################################
-
-## open command prompt in your computer (windows + R)
-## Set the working directory
-#cd C:\Source\Learning\Coursera\Web app building with python\My test project
-
-## Create a virtual environment named 'streamlit_env' using Python's venv module
-#py -m venv streamlit_env
-
-## Activate the virtual environment named 'streamlit_env'
-#streamlit_env\Scripts\activate
-
-## Install Streamlit using pip while the virtual environment is active
-#pip install streamlit
-#pip install plotly
-
-
-## run the code for the web (the .py file need to be in the working directory)
-#streamlit run mohi_lst.py
-
-
-
 ############################################################# importing libraries and loading data #############################################################
 
 import streamlit as st
