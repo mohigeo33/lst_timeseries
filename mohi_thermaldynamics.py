@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pydeck as pdk
-#import plotly
 import plotly.express as px
 import altair as alt
 DATA_URL = "https://raw.githubusercontent.com/mohigeo33/lst_timeseries/main/lst.csv"
