@@ -14,7 +14,7 @@
 
 ## Install Streamlit using pip while the virtual environment is active
 #pip install streamlit
-#pip install plotly
+!pip install plotly
 
 
 ## run the code for the web (the .py file need to be in the working directory)
