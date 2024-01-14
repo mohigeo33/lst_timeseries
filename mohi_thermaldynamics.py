@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pydeck as pdk
-import plotly.express as px
 import altair as alt
 DATA_URL = "https://raw.githubusercontent.com/mohigeo33/lst_timeseries/main/lst.csv"
 st.markdown("<h1 style='text-align: center; font-size: 36px;'>Thermal Dynamics of a City</h1>", unsafe_allow_html=True)
