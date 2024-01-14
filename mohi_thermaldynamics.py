@@ -1,3 +1,9 @@
+hide_footer_style = """
+<style>
+.css-10trblm {visibility: hidden;}
+</style>
+"""
+st.markdown(hide_footer_style, unsafe_allow_html=True)
 ############################################################# importing libraries and loading data #############################################################
 
 import streamlit as st
