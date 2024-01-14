@@ -6,6 +6,7 @@ import plotly.express as px
 import altair as alt
 DATA_URL = "https://raw.githubusercontent.com/mohigeo33/lst_timeseries/main/lst.csv"
 st.title("Thermal Dynamics of a City")
+st.markdown("<h2 style='text-align: center; font-size: 24px;'> by Gulam Mohiuddin</h2>", unsafe_allow_html=True)
 st.markdown("This application is a dashboard that can be used to understand the thermal dynamics of Phnom Penh City (Cambodia) through time series analysis of land surface temperature (LST) ☀️🏙️📈")
 @st.cache_data
 def load_data():
